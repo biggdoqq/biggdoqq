@@ -1,5 +1,5 @@
 ### Hi there 👋I'm Biggdoqq!
-🎓 I'm a first year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
+🎓 I'm a first year Computer software engineering student at BELTEI (BELTEI University of Phnom Penh). <br />
 🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 Previously a Frontend Developer at AsurRaa.<br />
 🌐 Also working as an online frontend developer instructor.<br />
